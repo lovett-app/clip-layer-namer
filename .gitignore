@@ -1,0 +1,11 @@
+# 빌드 결과 · 배포 zip (Releases 에 올림)
+*.exe
+배포/
+
+# 쓰는 사람마다 다른 파일
+settings.txt
+names.txt
+error.txt
+설정.txt
+이름목록.txt
+오류.txt
